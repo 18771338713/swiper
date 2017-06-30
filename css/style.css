@@ -105,7 +105,7 @@ html, body {
 }
 .page1-3Div2{
     float:right;
-    margin-top:1.73913rem;
+    margin-top:0.434783rem;
     width: 70%;
     padding:0.434783rem;
     color:#98F5FF;
@@ -114,7 +114,7 @@ html, body {
 }
 .page1-3Div3{
     float:left;
-    margin-top:1.304348rem;
+    margin-top:0.434783rem;
     width: 65%;
     padding:0.434783rem;
     color:#00F5FF;
@@ -196,45 +196,41 @@ html, body {
     color:blue;
 }
 .page8-1{
+    text-align:center;
     background: rgba(224, 224, 224, 0.31);
 }
 .page8-Div1{
-    text-align: center;
-    margin-top:2.173913rem;
+    width: 100%;
+    height: 50%;
 }
 .page8-Div2{
-    margin:0 auto;
-    margin-top:1.304348rem;
-    width: 80%;
-    height: 8.695652rem;
+    width: 100%;
+    height: 50%;
     border:0.043478rem solid white;
 }
 .page8-Div2>img{
     width: 100%;
-    height: 100%;
-}
-.page8-Div3{
-    margin:0 auto;
-    margin-top:1.304348rem;
-    width: 80%;
-    height: 8.695652rem;
-    border:0.043478rem solid white;
-}
-.page8-Div3>img{
-    width: 100%;
-    height: 100%;
+    height: 50%;
 }
 .page5-Div1{
     width: 80%;
     color:red;
-    padding:0.434783rem;
+    padding:0.869565rem;
     background: rgba(224, 224, 224, 0.31);
     font-size: 0.869565rem;
-    margin:2.173913rem auto;
+    margin:0.869565rem auto;
+}
+.page6-1{
+    width: 100%;
+    height: 100%;
+}
+.page6-1>img{
+    width: 100%;
+    height: 33%;
 }
 .page7 p{
     width: 90%;
-    margin:0.869565rem auto;
+    margin:0.434783rem auto;
 }
 .page7 p>span{
     font-size: 0.869565rem;
