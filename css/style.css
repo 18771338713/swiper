@@ -107,7 +107,7 @@ html, body {
     float:right;
     margin-top:1.73913rem;
     width: 70%;
-    padding:0.869565rem;
+    padding:0.434783rem;
     color:#98F5FF;
     background: black;
     opacity: 0.5;
@@ -116,7 +116,7 @@ html, body {
     float:left;
     margin-top:1.304348rem;
     width: 65%;
-    padding:1.73913rem 1.304348rem 0rem 0.434783rem;
+    padding:0.434783rem;
     color:#00F5FF;
     background: black;
     opacity: 0.5;
@@ -227,7 +227,7 @@ html, body {
 .page5-Div1{
     width: 80%;
     color:red;
-    padding:0.869565rem;
+    padding:0.434783rem;
     background: rgba(224, 224, 224, 0.31);
     font-size: 0.869565rem;
     margin:2.173913rem auto;
