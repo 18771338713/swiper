@@ -195,15 +195,6 @@ html, body {
 .page4-3P3{
     color:blue;
 }
-.page8-1{
-    text-align:center;
-    background: rgba(224, 224, 224, 0.31);
-}
-.page8-Div2{
-    margin:0 auto;
-    padding-top:30%;
-    border:0.043478rem solid white;
-}
 .page5-Div1{
     width: 80%;
     color:red;
@@ -232,4 +223,12 @@ html, body {
     text-align: center;
     color:red;
     font-size:1.304348rem;
+}
+.page8-1{
+    text-align:center;
+    background: rgba(224, 224, 224, 0.31);
+}
+.page8-Div2{
+    margin:0 auto;
+    padding-top:30%;
 }
