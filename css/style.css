@@ -201,14 +201,18 @@ html, body {
 }
 .page8-Div1{
     margin:0 auto;
-    margin-top:30%;
+    padding-top:30%;
+    height:50%;
 }
 .page8-Div2{
     margin:0 auto;
-    margin-top:30%;
+    padding-top:30%;
+    height:50%;
     border:0.043478rem solid white;
 }
-
+.page8-Div2>img{
+    height:100%;
+}
 .page5-Div1{
     width: 80%;
     color:red;
